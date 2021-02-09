@@ -1,4 +1,4 @@
-# Proj41
+# Twitter Simulator
 
 **TODO: Add description**
 
