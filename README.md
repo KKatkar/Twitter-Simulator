@@ -51,7 +51,7 @@ online. When user is offline the tweets get stored in user’s feed.
 
 #### FUNCTIONALITIES IMPLEMENTED IN SIMULATOR
 
-![](https://github.com/KKatkar/Twitter-Simulator/blob/main/static/simulator-stats.PNG)
+![](https://github.com/KKatkar/Twitter-Simulator/blob/main/static/sim-stats-1.PNG)
 
 <ul>
 <li> We were able to register and delete the account.
@@ -62,3 +62,7 @@ online. When user is offline the tweets get stored in user’s feed.
 tweets in which the user is mentioned.
 <li> We were able to deliver the above types of tweets live without querying.
 </ul>
+
+#### SIMULATOR VIEW (Zipf-distribution)
+
+![](https://github.com/KKatkar/Twitter-Simulator/blob/main/static/zipf-distribution.PNG)
