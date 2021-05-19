@@ -34,6 +34,9 @@ represents the number of tweets made by that user.
 system. All functionalities are implemented within the simulation.]
 
 #### FUNCTIONALITIES IMPLEMENTED - Client
+
+![](https://github.com/KKatkar/Twitter-Simulator/blob/main/static/functionalities.PNG)
+
 <ul>
 <li> We were able to register and delete the account.
 <li> We were able to log in and log out.
@@ -47,6 +50,9 @@ online. When user is offline the tweets get stored in user’s feed.
 </ul>
 
 #### FUNCTIONALITIES IMPLEMENTED IN SIMULATOR
+
+![](https://github.com/KKatkar/Twitter-Simulator/blob/main/static/simulator-stats.PNG)
+
 <ul>
 <li> We were able to register and delete the account.
 <li> We were able to send the tweets and the tweets included hashtags.
